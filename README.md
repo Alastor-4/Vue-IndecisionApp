@@ -1,35 +1,11 @@
-# FundamentosApp
+# Indecision App
 
-This template should help get you started developing with Vue 3 in Vite.
+## Overview
 
-## Recommended IDE Setup
+The Indecision App is a fun application that helps you make decisions by asking a question and fetching a random GIF and a response from the yesno.wtf API. It's a simple app designed for sharing and having some fun!
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Features
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- Ask a Question: Input your question into the app.
+- Receive Answer: Receive a random answer (yes, no, or maybe) along with a corresponding GIF.
+- Share and Enjoy: Share your funny responses with friends and have a good time.
